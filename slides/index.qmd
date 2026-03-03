@@ -4,15 +4,6 @@ data: today
 author: "Your name"
 ---
 
-```{python}
-#| echo: false
-# make global parameters available to embed in text
-import sys
-sys.path.append('..')
-from global_params import load_params
-params = load_params('../global_params.yml')
-```
-
 ## Admixture displacement in each <br>**geographical region** {.smaller}
 
 ### This is a subtitle
