@@ -4,7 +4,6 @@ project:
     # - quarto render --profile slides
     - quarto render slides/
     - quarto render thesis/
-    - quarto render manuscript/
     
 execute:
   freeze: auto
@@ -28,10 +27,10 @@ comments:
 lightbox: true
 
 book:
-  repo-url: "https://github.com/munch-group/projectname"
+  repo-url: "https://github.com/munch-group/emma-giraf"
   repo-actions: [edit, issue, source]  
-  title: "projectname"
-  author: "Joanna Doh"  
+  title: "Emmas project"
+  author: "Emma Christensen"  
   sidebar:
     collapse-level: 1
     search: true  
