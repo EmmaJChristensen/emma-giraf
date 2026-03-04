@@ -2,7 +2,7 @@
 title: Title of my thesis
 subtitle: Some subtitle for my thesis
 authors:
-  - name: Your Name
+  - name: Emma Christenen
     affiliation: Aarhus University
     roles: analysis, writing
     corresponding: true
