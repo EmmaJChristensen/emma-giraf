@@ -1,7 +1,7 @@
 ---
 title: "Example"
 data: today
-author: "Your name"
+author: "Emma Christensen"
 ---
 
 ```{python}

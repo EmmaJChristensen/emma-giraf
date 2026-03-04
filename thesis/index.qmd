@@ -2,7 +2,7 @@
 title: Title of my thesis
 subtitle: Some subtitle for my thesis
 authors:
-  - name: Emma Christensen
+  - name: "Emma Christensen"
     affiliation: Aarhus University
     roles: analysis, writing
     corresponding: true
